@@ -37,14 +37,6 @@ A **React** project using **Vite** to keep track of tasks with functionalities l
     npm run dev
     ```
 
-## React + Vite
-
-This template provides a minimal setup to get React working with Vite, including Hot Module Replacement (HMR) and basic ESLint rules.
-
-### Official Plugins
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md): Uses [Babel](https://babeljs.io/) for Fast Refresh.
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc): Uses [SWC](https://swc.rs/) for Fast Refresh.
 
 ## Project Structure
 
@@ -56,3 +48,11 @@ This template provides a minimal setup to get React working with Vite, including
 
 Feel free to fork the repository, submit issues, or make pull requests to enhance the project. Contributions are always welcome!
 
+## React + Vite
+
+This template provides a minimal setup to get React working with Vite, including Hot Module Replacement (HMR) and basic ESLint rules.
+
+### Official Plugins
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md): Uses [Babel](https://babeljs.io/) for Fast Refresh.
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc): Uses [SWC](https://swc.rs/) for Fast Refresh.
