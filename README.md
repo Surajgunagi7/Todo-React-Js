@@ -22,7 +22,7 @@ A **React** project using **Vite** to keep track of tasks with functionalities l
 2. Navigate to the project directory
 
     ```bash
-    cd currency-exchanger
+    cd Todo-ContextAPi
     ```
 
 3. Install the required modules
